@@ -1,0 +1,7 @@
+C:\Net\TP1\AsyncAndMultiThread\AsyncAndMultiThread\bin\Debug\AsyncAndMultiThread.exe.config
+C:\Net\TP1\AsyncAndMultiThread\AsyncAndMultiThread\bin\Debug\AsyncAndMultiThread.exe
+C:\Net\TP1\AsyncAndMultiThread\AsyncAndMultiThread\bin\Debug\AsyncAndMultiThread.pdb
+C:\Net\TP1\AsyncAndMultiThread\AsyncAndMultiThread\obj\Debug\AsyncAndMultiThread.csprojAssemblyReference.cache
+C:\Net\TP1\AsyncAndMultiThread\AsyncAndMultiThread\obj\Debug\AsyncAndMultiThread.csproj.CoreCompileInputs.cache
+C:\Net\TP1\AsyncAndMultiThread\AsyncAndMultiThread\obj\Debug\AsyncAndMultiThread.exe
+C:\Net\TP1\AsyncAndMultiThread\AsyncAndMultiThread\obj\Debug\AsyncAndMultiThread.pdb

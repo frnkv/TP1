@@ -1,0 +1,10 @@
+C:\Net\TP1\AsyncAndMultiThread\DesayunoSincrono\bin\Debug\DesayunoSincrono.exe.config
+C:\Net\TP1\AsyncAndMultiThread\DesayunoSincrono\bin\Debug\DesayunoSincrono.exe
+C:\Net\TP1\AsyncAndMultiThread\DesayunoSincrono\bin\Debug\DesayunoSincrono.pdb
+C:\Net\TP1\AsyncAndMultiThread\DesayunoSincrono\bin\Debug\ElementosDesayuno.dll
+C:\Net\TP1\AsyncAndMultiThread\DesayunoSincrono\bin\Debug\ElementosDesayuno.pdb
+C:\Net\TP1\AsyncAndMultiThread\DesayunoSincrono\obj\Debug\DesayunoSincrono.csprojAssemblyReference.cache
+C:\Net\TP1\AsyncAndMultiThread\DesayunoSincrono\obj\Debug\DesayunoSincrono.csproj.CoreCompileInputs.cache
+C:\Net\TP1\AsyncAndMultiThread\DesayunoSincrono\obj\Debug\DesayunoSincrono.csproj.CopyComplete
+C:\Net\TP1\AsyncAndMultiThread\DesayunoSincrono\obj\Debug\DesayunoSincrono.exe
+C:\Net\TP1\AsyncAndMultiThread\DesayunoSincrono\obj\Debug\DesayunoSincrono.pdb

@@ -1,0 +1,6 @@
+C:\Net\TP1\AsyncAndMultiThread\ElementosDesayuno\bin\Debug\ElementosDesayuno.dll
+C:\Net\TP1\AsyncAndMultiThread\ElementosDesayuno\bin\Debug\ElementosDesayuno.pdb
+C:\Net\TP1\AsyncAndMultiThread\ElementosDesayuno\obj\Debug\ElementosDesayuno.csprojAssemblyReference.cache
+C:\Net\TP1\AsyncAndMultiThread\ElementosDesayuno\obj\Debug\ElementosDesayuno.csproj.CoreCompileInputs.cache
+C:\Net\TP1\AsyncAndMultiThread\ElementosDesayuno\obj\Debug\ElementosDesayuno.dll
+C:\Net\TP1\AsyncAndMultiThread\ElementosDesayuno\obj\Debug\ElementosDesayuno.pdb
